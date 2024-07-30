@@ -1,0 +1,14 @@
+body {
+  background-color: #0073e6; /* Indigo Blue */
+  color: white;
+}
+
+.flight-status {
+  padding: 20px;
+}
+
+.flight {
+  border: 1px solid white;
+  padding: 10px;
+  margin: 10px 0;
+}
